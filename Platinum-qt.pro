@@ -1,6 +1,6 @@
 TEMPLATE = app
-TARGET = frozen-qt
-macx:TARGET = "Frozen-Qt"
+TARGET = Platinum-qt
+macx:TARGET = "Platinum-Qt"
 VERSION = 1.1.0.0
 INCLUDEPATH += src src/json src/qt
 QT += core gui network
