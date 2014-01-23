@@ -27,3 +27,4 @@ private slots:
 };
 
 #endif // ABOUTDIALOG_H
+
