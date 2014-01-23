@@ -4,7 +4,7 @@
 #include <QAbstractTableModel>
 #include <QStringList>
 
-class AddressTablePriv;
+class AddressTablePriv; 
 class CWallet;
 class WalletModel;
 
