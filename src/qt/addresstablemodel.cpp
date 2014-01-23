@@ -25,7 +25,7 @@ struct AddressTableEntry
     AddressTableEntry() {}
     AddressTableEntry(Type type, const QString &label, const QString &address):
         type(type), label(label), address(address) {}
-};
+}; 
 
 struct AddressTableEntryLessThan
 {
